@@ -442,7 +442,7 @@ _delay_ms(200);
 
 | 정면 동작 모습 |
 | :---: |
-| ![Hardware Setup](https://drive.google.com/file/d/1NiPMitHNKPDEAiLq4hgnhN2I2Sf9tbPl/view?usp=sharing) |
+| (https://drive.google.com/file/d/1NiPMitHNKPDEAiLq4hgnhN2I2Sf9tbPl/view?usp=sharing) |
 ---
 
 ## 7. AI 툴 활용 명시 (AI Tools Declaration)
