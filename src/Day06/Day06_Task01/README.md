@@ -207,7 +207,7 @@ Motor B : PB2 = LOW, PB3 = HIGH
 
 | 정면 동작 모습 |
 | :---: |
-| ![Hardware Setup](https://drive.google.com/file/d/1uQYtQ8YdHrGh9g2zuJvUBuW9rcCooI_f/view?usp=sharing) |
+| (https://drive.google.com/file/d/1uQYtQ8YdHrGh9g2zuJvUBuW9rcCooI_f/view?usp=sharing) |
 
 ---
 
